@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor folders and files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and runtime artifacts
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# Build/output directories
+dist/
+build/
+coverage/
