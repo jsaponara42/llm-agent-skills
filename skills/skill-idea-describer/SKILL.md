@@ -27,6 +27,17 @@ Do not use this skill for full skill implementation or code generation.
 
 Keep this lightweight. Avoid long interviews unless the user asks for depth.
 
+## Repository save requirement
+
+Always save idea files in this repository (`llm-agent-skills`), under the `skill-ideas` folder.
+
+- Primary target: `skill-ideas/ideas/`
+- Repository name: `llm-agent-skills`
+- Do not save idea files outside this repo unless the user explicitly asks.
+- After creating a new idea file, add or update a link in `skill-ideas/SKILL_IDEAS.md`.
+
+If write access is unavailable, return the exact file path and full markdown content the user should place in `skill-ideas/ideas/`.
+
 ## Required fields
 
 Always produce these four fields:
@@ -76,6 +87,8 @@ When saving an idea file, use this path and naming style:
 Examples:
 - `skill-ideas/ideas/2026-03-13-client-onboarding-checklist.md`
 - `skill-ideas/ideas/2026-03-13-ticket-triage-assistant.md`
+
+Also update `skill-ideas/SKILL_IDEAS.md` with a link to the new file.
 
 ## Question strategy
 
