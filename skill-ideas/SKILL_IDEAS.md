@@ -1,6 +1,28 @@
 # LLM Agent Skills - Idea Backlog
 
-A living document for brainstorming, evaluating, and tracking skill ideas.
+A living index for brainstorming, evaluating, and tracking skill ideas.
+
+## Fast Idea Workflow (Default)
+
+Use this lightweight flow so idea capture stays easy:
+
+1. Create one file per idea in `skill-ideas/ideas/`
+2. Use `skill-ideas/IDEA_TEMPLATE.md`
+3. Fill in: Problem, Pain Point, Description, Value Driver
+4. Add a link under "Idea Files Index" below
+
+Naming format:
+
+`YYYY-MM-DD-short-kebab-name.md`
+
+Related docs:
+- `docs/SKILL_IDEA_PROCESS.md`
+- `docs/SKILL_IDEA_FILE_FORMAT.md`
+- `skills/skill-idea-describer/SKILL.md`
+
+## Idea Files Index
+
+- [2026-03-13 - Skill Idea Description Coach](ideas/2026-03-13-skill-idea-description-coach.md)
 
 ## How to Use This Document
 
