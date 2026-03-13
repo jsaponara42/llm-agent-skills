@@ -23,6 +23,7 @@ Related docs:
 ## Idea Files Index
 
 - [2026-03-13 - Skill Idea Description Coach](ideas/2026-03-13-skill-idea-description-coach.md)
+- [2026-03-13 - Filevine API Automation Skill](ideas/2026-03-13-filevine-api-automation-skill.md)
 
 ## How to Use This Document
 
