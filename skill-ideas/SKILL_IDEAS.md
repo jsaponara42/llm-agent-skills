@@ -22,6 +22,7 @@ Related docs:
 
 ## Idea Files Index
 
+- [2026-03-30 - Brazilian Jiu-Jitsu Positional Trainer and Game](ideas/2026-03-30-brazilian-jiu-jitsu-positional-trainer.md)
 - [2026-03-18 - Process Transcript SOP Writer](ideas/2026-03-18-process-transcript-sop-writer.md)
 - [2026-03-17 - AI & Automation Agency Client Onboarding Skill](ideas/2026-03-17-ai-automation-agency-client-onboarding-skill.md)
 - [2026-03-13 - Skill Idea Description Coach](ideas/2026-03-13-skill-idea-description-coach.md)
